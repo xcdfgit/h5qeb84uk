@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2024 22:09:35 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 22:46:51 +0100</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5893edef3b074f13</title>
+      <link>https://example.org/posts/5893edef3b074f13/</link>
+      <pubDate>Wed, 11 Dec 2024 22:46:51 +0100</pubDate>
+      <guid>https://example.org/posts/5893edef3b074f13/</guid>
+      <description>&lt;h2 id=&#34;article-2&#34;&gt;Article 2&lt;/h2&gt;&#xA;&lt;p&gt;Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dans la présente Déclaration, sans distinction aucune, notamment de race, de couleur, de sexe, de langue, de religion, d&amp;rsquo;opinion politique ou de toute autre opinion, d&amp;rsquo;origine nationale ou sociale, de fortune, de naissance ou de toute autre situation. De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ou international du pays ou du territoire dont une personne est ressortissante, que ce pays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à une limitation quelconque de souveraineté.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>D222979c7de447ba</title>
       <link>https://example.org/posts/d222979c7de447ba/</link>
